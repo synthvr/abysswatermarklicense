@@ -1,7 +1,9 @@
 {
   "issued": "2026-01-05",
   "licenses": [
+    "EMP-AILA-2026",
+    "EMP-JAY-2026",
     "EMP-SYNTH-2026"
   ],
-  "signature": "vhMyL80BSxDxat9uPjk/RArCU48d01Uun7nl1FOimBWPIiMzqtHK2+ti7cxBgQaujQnL8Of49ZwpttkZCUmSGs84MbVQORDvwgHdPmzfEz3q5+JZTKjzbYU92hmbXHxjia+AzFExzAm5u14lB39a/3ZWfe4RfDUDUdDNubhoyrdk9NdRMovcDSl1UgmGpTR45K81YkmMUxdVoFO0Hv0loK5SrH8U19bdrXvw2C4V2DsoGJvtR0rT9yXaviKsiC3YLLSf0QPYeSWfE3IJLZdi1K0PWceUN1ufRRyYlYh9ls3v5Uw/nOHckMKsszcmwoEkOYb8cmqnwxLdzO652E6URw=="
+  "signature": "imtLDnQub3A63l0ukxCiYoMTVQGESYnqisT/V6DPGaR/N5XMAHcUSK9P2v3J1za4xNaaOSthUR9gVNRnSNJNwPrEWtCF+rvLs+MLAYyakCMVPTg66ImjjmUbWvgQvvTHdovC9vFy6TyupXGzkWngteEeFUAeDXg5RuJ8sz/lSyXSjZ815i19HRqEQcYKwFMBCdoX4bT9S2aQhfK2XhuKjocu2gKz2/6ViseoSxtyFU571/i73aM/Pwe6jNmLX6OPzSLIa2OQDsIyvAprUBq2wtqjUUu/Z8FW3dqlZffj6/a34kTxENFrmhsgslFTkjJGaxev4I4Q6UdLH+0XnWDgyw=="
 }
